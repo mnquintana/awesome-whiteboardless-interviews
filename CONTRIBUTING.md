@@ -18,9 +18,8 @@ Please note that this project adheres to a [Contributor Code of Conduct](CODE_OF
 ## Adding a new company
 Ensure your pull request adheres to the following guidelines:
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make an individual pull request for each suggestion.
-- Use the following format: `[package](link) - Description.`
+- Search previous listings before making a new one, as yours may be a duplicate.
+- Make an individual pull request for each listing.
 - Additions should be added in alphabetical order.
 - New categories, or improvements to the existing categorization are welcome.
 - Start the description with a capital and end with a full stop/period.
