@@ -12,3 +12,4 @@ https://medium.freecodecamp.com/why-is-hiring-broken-it-starts-at-the-whiteboard
 ## List of Companies
 - [Pivotal Labs](https://pivotal.io/labs): _Collaborative, agile software consultancy._ Day of pair programming.
 - [Slack](https://slack.com/): _A messaging app for amazing teams._ Take-home exercise, and in-person technical architecture challenge.
+- [TWG](twg.io): _We build software solutions for enterprises and startups._ Talk through a sample project focusing on problem solving instead of memorization.
