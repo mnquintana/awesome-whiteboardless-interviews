@@ -12,5 +12,6 @@ https://medium.freecodecamp.com/why-is-hiring-broken-it-starts-at-the-whiteboard
 ## List of Companies
 - [Patreon](https://www.patreon.com/): _Crowdfunding site for artists and creators._ Pair programming and collaborative problem solving.
 - [Pivotal Labs](https://pivotal.io/labs): _Collaborative, agile software consultancy._ Day of pair programming.
+- [Slalom](https://www.slalom.com/): _Consulting company with local offices to their clients, reducing consultants' commutes and travel_ "Explain this code" screenshare questions and a take home project.
 - [Slack](https://slack.com/): _A messaging app for amazing teams._ Take-home exercise, and in-person technical architecture challenge.
 - [TWG](https://twg.io): _We build software solutions for enterprises and startups._ Talk through a sample project focusing on problem solving instead of memorization.
